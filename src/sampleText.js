@@ -1,0 +1,2 @@
+export const sampleText =
+  '# h1\n## h2 \n### h3\n \nSpaces and line breaks can be made between paragraphs.\n\nAttributes *italic*, **strong emphasis**, \n`monospace`\n\nList:\n\n* item\n* item\n* item\n\nOrdered list:\n1. item\n2. item\n3. item\n\nInline link: *[pug img](https://www.dw.com/image/47720327_303.jpg)* \n\nLink : https://cdn.shopify.com/s/files/1/1679/8139/products/IMG_7216_1024x1024.JPG?v=1519501420 \n\n```\nconsole.log("welcome"); \n```\n';
